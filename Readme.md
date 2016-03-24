@@ -25,3 +25,6 @@ Rover Image
 ![alt tag](https://raw.githubusercontent.com/HackHusky/Sensor/master/Rover%20Image.jpg)
 
 Rover UI That Incorporate Sensor Data
+![alt tag](https://github.com/HackHusky/Sensor/blob/master/1.png?raw=true)
+![alt tag](https://github.com/HackHusky/Sensor/blob/master/2.png?raw=true)
+
