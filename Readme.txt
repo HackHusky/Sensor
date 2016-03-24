@@ -21,3 +21,5 @@ Voltage Sensor: Homemade
 
 Note: All work was previously on bitbucket. Since the project is over, I migrated my own section to github.
  
+
+![alt tag](https://github.com/HackHusky/Sensor/blob/master/Rover%20Image.jpg)
